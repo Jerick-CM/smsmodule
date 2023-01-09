@@ -1,0 +1,20 @@
+{
+    "name": "itoffice/smsmodule",
+    "description": "This is a test package name",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerick-CM",
+            "email": "jmangaluz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+   
+    "autoload": {
+        "psr-4" :{
+            "Itoffice\\smsmodule" : "src/"
+        }
+    },
+    "require": {},
+}
